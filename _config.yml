@@ -1,11 +1,11 @@
 # Site settings
 author: Maynard Hartman
-title: 
+title: Day(s) In The Life
 header-img: img/home-bg.png
 email: mjhartman@brighthouse.com
 copyright_name: Maynard Hartman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A day (sort of) by day expose of the life of a student software dev
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  maynardhartman
