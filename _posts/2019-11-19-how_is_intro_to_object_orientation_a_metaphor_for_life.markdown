@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How is Intro to Object Orientation a metaphor for life?"
-date:       2019-11-19 18:02:34 +0000
+date:       2019-11-19 13:02:35 -0500
 permalink:  how_is_intro_to_object_orientation_a_metaphor_for_life
 ---
 
