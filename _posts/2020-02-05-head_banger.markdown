@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Head Banger"
-date:       2020-02-05 14:32:15 +0000
+date:       2020-02-05 09:32:16 -0500
 permalink:  head_banger
 ---
 
